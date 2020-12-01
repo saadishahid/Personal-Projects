@@ -17,7 +17,7 @@ with smtplib.SMTP('localhost', 1025) as smtp:
     body = 'Bar'    #enter body of email
 
     msg = f'Subject:{subject}\n\n{body}'
-   # smtp.sendmail(userid, '<enter email of adressee', msg)
+   # smtp.sendmail(userid, '<enter email of adressee>', msg)
 
     
 
