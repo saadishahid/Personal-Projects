@@ -4,3 +4,5 @@ Personal Coding Projects
 <br>
 <h2> Rock and Roll Trivia</h2>
 <br> A multiple choice trivia to test your knowledge of Rock music. Built using JAVA Swing
+<h2> Tinder Clone Website - Tindog </h2>
+<br> A tinder clone website made using Bootstrap 4 and HTML / CSS. <br>
