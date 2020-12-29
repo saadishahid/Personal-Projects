@@ -8,3 +8,5 @@ Personal Coding Projects
 <br> A tinder clone website made using Bootstrap 4 and HTML / CSS. <br>
 <h2> Dice Draw using Two Dice </h2>
 <br> Implementation of JS to genrate images of dice based on the random value generated in code<br>
+<h2> Drum Kit </h2>
+<br> Web based drum kit usign HTML5, CSS, and Javascript<br>
