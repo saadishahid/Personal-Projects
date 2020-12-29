@@ -6,3 +6,5 @@ Personal Coding Projects
 <br> A multiple choice trivia to test your knowledge of Rock music. Built using JAVA Swing
 <h2> Tinder Clone Website - Tindog </h2>
 <br> A tinder clone website made using Bootstrap 4 and HTML / CSS. <br>
+<h2> Dice Draw using Two Dice </h2>
+<br> Implementation of JS to genrate images of dice based on the random value generated in code<br>
